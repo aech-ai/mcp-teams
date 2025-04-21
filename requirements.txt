@@ -1,0 +1,15 @@
+mcp[cli]
+duckdb
+msal
+httpx
+rich
+python-dotenv
+openai
+
+# PostgreSQL IR server dependencies
+psycopg[binary]>=3.2.3
+psycopg-pool==3.2.4
+pgvector>=0.3.6
+numpy>=1.24.0
+sqlalchemy>=2.0.0
+alembic>=1.13.1
